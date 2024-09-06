@@ -1,0 +1,32 @@
+/* flge.css */
+.flag {
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
+
+.stripe {
+    height: calc(100% / 3);
+}
+
+.saffron {
+    background-color: #FF9933; /* Saffron color */
+}
+
+.white {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green {
+    background-color: #138808; /* Green color */
+}
+
+.wheel {
+    width: 30%;
+    height: 90%;
+    border-radius: 90%;
+    background-color: navy;
+}
